@@ -3,7 +3,7 @@
   command = "hugo"
 
 [context.production.environment]
-  HUGO_VERSION = "0.75.1" # 
+  HUGO_VERSION = "0.75.1" # from https://alison.rbind.io/post/2019-02-19-hugo-netlify-toml/
   HUGO_ENV = "production"
   HUGO_ENABLEGITINFO = "true"
   
